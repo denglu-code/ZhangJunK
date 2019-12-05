@@ -1,0 +1,62 @@
+.box1{
+    height: 72px;
+    background-color: #1b2b3b;
+}
+
+/* .box1-dbu{
+    position: relative;
+} */
+
+.box1-dbu img{
+    float: left;
+}
+
+.box1-dbu span{
+    float: left;
+    line-height: 72px;
+    font-size: 25px;
+    color: #eeb81a
+}
+
+.box1-dbu a{
+    float: right;
+    line-height: 72px;
+    color: #c8c8ce;
+    font-size: 20px;
+    background-image: url(../img/xiasanjiao.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    width: 163px;
+    box-sizing: border-box;
+}
+
+.box1-dbu i{
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+/* 第二部分 */
+.box2{
+    width: 100%;
+    height: 650px;
+    background-color: #f2f3f5;
+    padding: 80px 0;
+}
+
+.box2-dahezi{
+    height: 629px;
+    background-color: #fff;
+}
+
+.box2-dahezi-left{
+    float: left;
+    width: 768px;
+    height: 100%;
+    border-right:1px solid #f2f3f5;
+    text-indent: 4em;
+}
+
+.box2-dahezi-left p{
+    font-size: 25px;
+    padding-top: 55px;
+}
