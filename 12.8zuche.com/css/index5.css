@@ -1,0 +1,107 @@
+/* 顶部导航 */
+
+.box1{
+    height: 35px;
+}
+
+
+.bo1-left{
+    float: left;
+}
+
+.bo1-left span{
+    padding-left: 15px;
+    line-height: 35px;
+    color: #8ea5b9;
+}
+
+.bo1-left i{
+    padding: 0 5px;
+}
+
+.box1-right{
+    float: right;
+}
+
+.box1-right span{
+    line-height: 35px;
+    color: #8ea5b9;
+}
+
+.box1-right i{
+    padding-left: 5px;
+    padding-right: 5px;
+    color: #8ea5b9;
+}
+
+.box1-right .huangse{
+    color: #fdb811;
+}
+
+/* 第二部分 */
+
+.box2{
+    height: 3500px;
+    background-color: #fde11b;
+}
+
+.box3{
+    background-color: #fde11b;
+    height: 410px;
+    overflow: hidden;
+}
+
+.lijiyud{
+    width: 450px;
+    height: 85px;
+    background-color: #000b33;
+    border-radius: 4px 4px 4px 4px; 
+    text-align: center;
+    margin-left: 423px;
+    margin-top: 141px;
+}
+
+.lijiyud span{
+    color: #fdd000;
+    font-size: 26px;
+    line-height: 85px;
+}
+
+.box3 p{
+    font-size: 20px;
+    margin-top: 98px;
+    margin-left: 424px;
+}
+
+.box4{
+    height: 185px;
+    text-align: center;
+    padding-top: 54px;
+}
+
+.box4 a{
+    padding-right: 22px;
+    color: #848484;
+}
+
+.box4 i{
+    padding-right: 22px;
+}
+
+.box4-tupian{
+    margin-top: 20px;
+}
+
+.box4-tupian img{ 
+   padding-right: 15px;
+}
+
+.wenzi{
+    margin-top: 24px;
+}
+
+
+.wenzi p{
+    padding-bottom: 10px;
+    color: #848484;
+}
